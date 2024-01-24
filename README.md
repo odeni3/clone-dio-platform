@@ -1,1 +1,2 @@
-creating clone of the dio.me platform using React, Styled-Components and Axios.
+clone of the dio.me platform using React, Styled-Components and Axios.
+
