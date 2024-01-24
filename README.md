@@ -1,1 +1,1 @@
-training creating clone of the dio.me platform.
+creating clone of the dio.me platform using React, Styled-Components and Axios.
